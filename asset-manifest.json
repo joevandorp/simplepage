@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/simplepage/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/simplepage/static/js/main.9eacefbf.chunk.js",
-    "main.js.map": "/simplepage/static/js/main.9eacefbf.chunk.js.map",
+    "main.js": "/simplepage/static/js/main.c62cbe27.chunk.js",
+    "main.js.map": "/simplepage/static/js/main.c62cbe27.chunk.js.map",
     "runtime-main.js": "/simplepage/static/js/runtime-main.8d3071fb.js",
     "runtime-main.js.map": "/simplepage/static/js/runtime-main.8d3071fb.js.map",
-    "static/js/2.bd010c4d.chunk.js": "/simplepage/static/js/2.bd010c4d.chunk.js",
-    "static/js/2.bd010c4d.chunk.js.map": "/simplepage/static/js/2.bd010c4d.chunk.js.map",
+    "static/js/2.c6089cf9.chunk.js": "/simplepage/static/js/2.c6089cf9.chunk.js",
+    "static/js/2.c6089cf9.chunk.js.map": "/simplepage/static/js/2.c6089cf9.chunk.js.map",
     "static/js/3.2dcf2b22.chunk.js": "/simplepage/static/js/3.2dcf2b22.chunk.js",
     "static/js/3.2dcf2b22.chunk.js.map": "/simplepage/static/js/3.2dcf2b22.chunk.js.map",
     "index.html": "/simplepage/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/simplepage/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.bd010c4d.chunk.js.LICENSE.txt": "/simplepage/static/js/2.bd010c4d.chunk.js.LICENSE.txt"
+    "static/js/2.c6089cf9.chunk.js.LICENSE.txt": "/simplepage/static/js/2.c6089cf9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8d3071fb.js",
-    "static/js/2.bd010c4d.chunk.js",
+    "static/js/2.c6089cf9.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9eacefbf.chunk.js"
+    "static/js/main.c62cbe27.chunk.js"
   ]
 }
